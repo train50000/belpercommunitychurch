@@ -1,10 +1,36 @@
 <header class="site-header">
 
+<!-- Menu Horizontal -->
+   
+       {% include top-menu.html context="/" %}
+
+      <ul class="menu">
+      <li class="current"><a href="">Item 1</a></li>
+      <li><a href="">Item 2</a></li>
+      <li><a href=""><span class="icon" data-icon="R"></span>Item 3</a>
+        <ul>
+        <li><a href=""><i class="fa fa-car"></i> Sub Item</a></li>
+        <li><a href=""><i class="fa fa-arrow-circle-right"></i> Sub Item</a>
+          <ul>
+          <li><a href=""><i class="fa fa-comments"></i> Sub Item</a></li>
+          <li><a href=""><i class="fa fa-check"></i> Sub Item</a></li>
+          <li><a href=""><i class="fa fa-cutlery"></i> Sub Item</a></li>
+          <li><a href=""><i class="fa fa-cube"></i> Sub Item</a></li>
+          </ul>
+        </li>
+        <li class="divider"><a href=""><i class="fa fa-file"></i> li.divider</a></li>
+        </ul>
+      </li>
+      <li><a href="">Item 4</a></li>
+      </ul>
+</header>
+
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
+
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
@@ -14,14 +40,10 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        
       </div>
     </nav>
 
   </div>
 
-</header>
+
