@@ -13,7 +13,7 @@
 <nav class="sidebar-item sidebar-item-menu">
   
 
-  <ul>
+  <ul class="menu vertical">
     {% for node in pages %}
       {% if node.url contains root %}
 
@@ -21,7 +21,7 @@
         {% assign node_depth = node_parts | size %}
 
         {% if node_depth == 3 %}
-          <li{% if page.url contains node.url %} class="active"{% endif %}>
+          <li{% if page.url contains node.url %} class="current"{% endif %}>
             <a href="{{ node.url }}">
               {% if node.link %}
                 {{ node.link }}
@@ -42,7 +42,7 @@
               <ul>
                 {% for subnode in pages %}
                   {% if subnode.url contains node_root and subnode.url != node_root %}
-                    <li{% if page.url contains subnode.url %} class="active"{% endif %}>
+                    <li{% if page.url contains subnode.url %} class="current"{% endif %}>
                       <a href="{{ subnode.url }}">
                         {% if subnode.link %}
                           {{ subnode.link }}
