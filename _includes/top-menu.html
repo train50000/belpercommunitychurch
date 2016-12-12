@@ -1,11 +1,13 @@
 {% capture html %}
 <ul class="menu">
-{% for node in site.pages %}
+    <li{% if page.url == "/" %} class="current"{% endif %}><a href="/">Home</a></li>
+    {% assign nodes = site.pages | sort: 'order' %}
+{% for node in nodes %}
   {% assign node_parts = node.url | split: '/' %}
   {% assign node_depth = node_parts | size %}
-  {% if node_depth <= 2 %}
+  {% if node_depth == 2 %}
     {% if node.order %}
-            <li{% if page.url == node.url %} class="current"{% endif %}>
+            <li{% if page.url contains node.url %} class="current"{% endif %}>
                 <a href="{{ node.url }}">{{ node.title }}</a>
             </li>
     {% endif %}

@@ -7,14 +7,22 @@
 
     {% include header.html %}
 
+    <div class="grid">
+      <div class="col_4"> <!-- Sidebar -->
+        {% include side-menu.html %}
+      </div> <!-- End of Sidebar -->
+      <div class="col_8"> <!-- Content -->
+        {{ content }}
+      </div> <!-- End of content -->
+
     <div class="page-content">
       <div class="wrapper">
-        {{ content }}
+        
       </div>
     </div>
 
     {% include footer.html %}
-
+    </div> <!-- End of grid -->
   </body>
 
 </html>
