@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body style="background-image: url({{ page.img }}); background-size: 100%;">
+
+    {% include header.html %}
+
+    
+
+    <div class="grid">
+
+
+      <div class="col_12"> <!-- Content -->
+        <h1>{{ site.title }}</h1>
+        
+        
+
+        <div class="col_8 box h300"><!-- Posts widget -->
+          {{ content }}
+        </div>
+        
+        <div class="col_4"><!-- Tweets widget -->
+          <a class="twitter-timeline" data-height="300" href="https://twitter.com/BelperCChurch">Tweets by BelperCChurch</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div> <!-- End of content -->
+      
+    
+    <div class="col_12">
+      {% include footer.html %}
+    </div>
+    </div> <!-- End of grid -->
+  </body>
+
+</html>
