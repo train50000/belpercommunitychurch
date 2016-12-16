@@ -1,18 +1,49 @@
-{% capture html %}
-<ul class="menu">
-    <li{% if page.url == "/" %} class="current"{% endif %}><a href="/">Home</a></li>
-    {% assign nodes = site.pages | sort: 'order' %}
-{% for node in nodes %}
-  {% assign node_parts = node.url | split: '/' %}
-  {% assign node_depth = node_parts | size %}
-  {% if node_depth == 2 %}
-    {% if node.order %}
-            <li{% if page.url contains node.url %} class="current"{% endif %}>
-                <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
- </ul>
+  {% capture html %}
+  <!-- BEGIN MENU -->
+  <section id="menu-area">      
+    <nav class="navbar navbar-default" role="navigation">  
+      <div class="container">
+        <div class="navbar-header">
+          <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- LOGO -->              
+          <!-- TEXT BASED LOGO -->
+          <a class="navbar-brand" href="index.html">{{ site.title }}</a>              
+          <!-- IMG BASED LOGO  -->
+<!--            <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
+            <li{% if page.url == "/" %} class="active"{% endif %}><a href="/">Home</a></li>
+            {% assign nodes = site.pages | sort: 'order' %}
+            {% for node in nodes %}
+              {% assign node_parts = node.url | split: '/' %}
+              {% assign node_depth = node_parts | size %}
+              {% if node_depth == 2 %}
+                {% if node.order %}
+                        <li{% if page.url contains node.url %} class="current"{% endif %}>
+                            <a href="{{ node.url }}">{{ node.title }}</a>
+                        </li>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            
+          </ul>                     
+        </div><!--/.nav-collapse -->
+        <a href="#" id="search-icon">
+          <i class="fa fa-search">            
+          </i>
+        </a>
+      </div>     
+    </nav>
+  </section>
+  <!-- END MENU --> 
+
+ 
  {% endcapture %}
 {{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
