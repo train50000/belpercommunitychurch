@@ -17,3 +17,6 @@ github_username:  berthelemy
 
 # Build settings
 markdown: kramdown
+
+include: ["_pages"]
+permalink: /:title/
