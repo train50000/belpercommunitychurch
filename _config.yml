@@ -11,6 +11,7 @@ email: office@belpercommunitychurch.org
 description: > # this means to ignore newlines until "baseurl:"
   Missional church serving Belper and wider afield.
 baseurl: "" # the subpath of your site, e.g. /blog
+themeurl: "/themes/Intensely/assets"
 url: "http://belpercommunitychurch.org" # the base hostname & protocol for your site
 twitter_username: belpercc
 github_username:  berthelemy
