@@ -21,3 +21,6 @@ markdown: kramdown
 
 include: ["_pages"]
 permalink: /:title/
+
+collections:
+  sliders:
