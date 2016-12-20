@@ -1,33 +1,45 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-<!-- Start single page header -->
-  <section id="single-page-header">
-    <div class="overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="single-page-header-left">
-              <h2>{{ page.title }}</h2>
-              <p>{{ page.description }}</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="single-page-header-right">
-              <ol class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li class="active">{{ page.title }}</li>
-              </ol>
+  {% include head.html %}
+
+  
+  
+<body>
+
+   {% include header.html %}
+   {% include page_header.html %}
+
+   <!-- Start content section  -->
+  <section id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="page-area">
+            <h1 class="title"><span class="fa fa-calendar"></span></h1>
+            <div class="content">
+                {{ content }}
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  <!-- End single page header -->
- 
-{{ content }}
 
 
+
+  <!-- End content section  -->
+
+
+
+
+  {% include footer.html %}
+
+
+  
+    {% include javascripts.html %}
+  </body>
+  
+  
+</html>
 
