@@ -26,3 +26,5 @@ permalink: /:title/
 collections:
   sliders:
   events:
+    output: true
+    permalink: /calendar/:path/

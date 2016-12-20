@@ -12,4 +12,5 @@ dates:
       finish: 1200
 category: 
     Celebration
+layout: event
 ---

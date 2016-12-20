@@ -22,7 +22,7 @@ order: 4
     <tr>
         <td>{{ date.date | date: '%d %B %Y'}}</td>
         <td>{{ event.category }}</td>
-        <td>{{ event.title }}</td>
+        <td><a href="{{ event.url }}index.html">{{ event.title }}</a></td>
         <td>{{ event.description }}</td>
         <td>{{ date.start }} - {{ date.finish }}</td>
     </tr>

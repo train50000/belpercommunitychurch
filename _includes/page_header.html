@@ -12,7 +12,11 @@
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="single-page-header-right">
               <ol class="breadcrumb">
+              {% assign url = page.url | split:"/" %}
+              
+              
                 <li><a href="/">Home</a></li>
+                {% if url.size > 2 %}<li><a href="/{{ url[1] }}">{{ url[1] | capitalize }}</a></li>{% endif %} <!-- only works for depth of 2 -->
                 <li class="active">{{ page.title }}</li>
               </ol>
             </div>

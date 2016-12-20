@@ -17,4 +17,5 @@ dates:
       start: 1030
       finish: 1215
 category: Gathering
+layout: event
 ---
