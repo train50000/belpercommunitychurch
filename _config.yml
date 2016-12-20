@@ -8,6 +8,7 @@
 # Site settings
 title: Belper Community Church
 email: office@belpercommunitychurch.org
+phone: 01773 441 211
 description: > # this means to ignore newlines until "baseurl:"
   Missional church serving Belper and wider afield.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,3 +25,4 @@ permalink: /:title/
 
 collections:
   sliders:
+  events:

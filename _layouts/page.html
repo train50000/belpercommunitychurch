@@ -1,14 +1,42 @@
----
-layout: default
----
-<article class="post">
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
 
   
-    <h2>{{ page.title }}</h2>
   
+<body>
 
-  <div>
-    {{ content }}
-  </div>
+   {% include header.html %}
+   {% include page_header.html %}
 
-</article>
+   <!-- Start content section  -->
+  <section id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="page-area">
+            <h1 class="title"><span class="fa fa-calendar"></span></h1>
+            <div class="content">
+                {{ content }}
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End content section  -->
+
+
+
+
+  {% include footer.html %}
+
+
+  
+    {% include javascripts.html %}
+  </body>
+  
+  
+</html>

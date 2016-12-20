@@ -8,6 +8,10 @@ Author URI : http://www.markups.io/
   background-color: #ff871c; 
 }
 
+.content h2 {
+  color: #ff871c !important;
+}
+
 .navbar-brand {
   color: #ff871c !important; 
 }
