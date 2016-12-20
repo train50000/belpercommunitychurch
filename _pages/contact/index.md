@@ -70,22 +70,4 @@ order: 10
   </section>
   <!-- End google map -->
 
-  <!-- Start subscribe us -->
-  <section id="subscribe">
-    <div class="subscribe-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="subscribe-area">
-              <h2>Subscribe Newsletter</h2>
-              <form action="" class="subscrib-form">
-                <input type="text" placeholder="Enter Your E-mail..">
-                <button class="subscribe-btn" type="submit">Submit</button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End subscribe us -->
+  
