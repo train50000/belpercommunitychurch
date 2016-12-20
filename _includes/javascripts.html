@@ -2,6 +2,7 @@
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
   <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+  <!-- Docs at: https://datatables.net/ -->
 
   <!-- Bootstrap -->
   <script src="{{ site.themeurl }}/assets/js/bootstrap.js"></script>
@@ -20,7 +21,31 @@
   <script type="text/javascript" src="{{ site.themeurl }}/assets/js/custom.js"></script>
 
   <script>
+
+  /* Custom filtering function which will find dates in column 1 for now onwards */
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var today = new Date();
+
+        var eventDate = ( new Date(data[0]) ); // use data for the date column
+
+
+        if ( eventDate > today )          
+          {
+
+              return true;
+          }
+        return false;
+    }
+);
+ 
+
+
     $(document).ready( function () {
-      $('.dataTable').DataTable();
-  } );
+     
+      var table = $('#calendar').DataTable();
+      table = table.column(0).data().sort();
+      table.draw();
+} );
+
     </script>

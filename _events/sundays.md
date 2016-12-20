@@ -7,11 +7,14 @@ allday: false
 description: 
     Meeting together to worship Jesus etc
 dates:
-    - date: 2017-1-4
-      start: 10:30
-      finish: 12:15
-    - date: 2017-1-11
-      start: 10:30
-      finish: 12:15
+    - date: 2016-12-18
+      start: 1800
+      finish: 2000
+    - date: 2017-01-04
+      start: 1030
+      finish: 1215
+    - date: 2017-01-11
+      start: 1030
+      finish: 1215
 category: Gathering
 ---
