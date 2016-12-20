@@ -4,31 +4,8 @@ title: Contact
 permalink: /contact/
 order: 10
 ---
-<!-- Start single page header -->
-  <section id="single-page-header">
-    <div class="overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="single-page-header-left">
-              <h2>Contact</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="single-page-header-right">
-              <ol class="breadcrumb">
-                <li><a href="#">Home</a></li>
-                <li class="active">Contact</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End single page header -->
-  <!-- Start contact section  -->
+
+<!-- Start contact section  -->
   <section id="contact">
      <div class="container">
        <div class="row">
