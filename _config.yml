@@ -21,6 +21,7 @@ github_username:  berthelemy
 markdown: kramdown
 
 include: ["_pages"]
+exclude: ["*.sublime-project","*.sublime-workspace","_build-instructions.txt"]
 permalink: /:title/
 
 collections:
