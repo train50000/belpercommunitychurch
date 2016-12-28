@@ -1,0 +1,19 @@
+{% for post in site.posts limit: include.lim %}
+
+<div class="col-md-4">
+    <article class="blog-news-single">
+      <div class="blog-news-img">
+        <a href="{{ post.url }}"><img src="/assets/post-images/{{ post.image }}" alt="{{ post.alt }}"></a>
+      </div>
+      <div class="blog-news-title">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p><span class="blog-date">{{ post.date | date: "%-d %B %Y" }}</span></p>
+      </div>
+      <div class="blog-news-details">
+        <p>{{ post.excerpt }}</p>
+        <a class="blog-more-btn" href="{{ post.url }}">Read More <i class="fa fa-long-arrow-right"></i></a>
+      </div>
+    </article>
+    </div>
+
+{% endfor %}

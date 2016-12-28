@@ -7,8 +7,6 @@ icon: fa-calendar
 order: 4
 ---
 
-
-
 <table class="dataTable" id="calendar">
     <thead>
     <tr>
@@ -21,15 +19,15 @@ order: 4
 </thead>
 <tbody>
 {% for event in site.events %}
-    {% for date in event.dates %}
+    
     <tr>
-        <td>{{ date.date | date: '%d %B %Y'}}</td>
+        <td>{{ event.when | date: '%d %B %Y'}}</td>
         <td>{{ event.category }}</td>
         <td><a href="{{ event.url }}index.html">{{ event.title }}</a></td>
         <td>{{ event.description }}</td>
-        <td>{{ date.start }} - {{ date.finish }}</td>
+        <td>{{ event.start }} - {{ event.finish }}</td>
     </tr>
-{% endfor %}
+
 {% endfor %}
 </tbody>
 </table>

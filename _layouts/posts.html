@@ -15,15 +15,8 @@
       <div class="row">
         <div class="col-md-12 content">
           <div class="page-area">
-            
+            {% include posts.html %}
           
-                {% for post in site.posts %}
-                <div class="col-md-4">
-                  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                  <p>{{ post.excerpt }}</p>
-                  <p><a href="{{ post.url }}">Read more...</a></p>
-                </div>
-                {% endfor %}
             </div>
           </div>
         
