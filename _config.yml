@@ -22,7 +22,7 @@ markdown: kramdown
 
 include: ["_pages"]
 exclude: ["*.sublime-project","*.sublime-workspace","_build-instructions.txt"]
-permalink: /:title/
+permalink: /news/:title/
 
 collections:
   sliders:
