@@ -7,29 +7,6 @@ icon: fa-calendar
 order: 4
 ---
 
-<table class="dataTable" id="calendar">
-    <thead>
-    <tr>
-        <th>Date</th>
-        <th>Category</th>
-        <th>Title</th>
-        <th>Description</th>
-        <th>Time</th>
-    </tr>
-</thead>
-<tbody>
-{% for event in site.events %}
-    
-    <tr>
-        <td>{{ event.when | date: '%d %B %Y'}}</td>
-        <td>{{ event.category }}</td>
-        <td><a href="{{ event.url }}index.html">{{ event.title }}</a></td>
-        <td>{{ event.description }}</td>
-        <td>{{ event.start }} - {{ event.finish }}</td>
-    </tr>
-
-{% endfor %}
-</tbody>
-</table>
+{% include events-table.html ID="calendar" %}
 
 

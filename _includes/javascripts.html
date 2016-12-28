@@ -37,7 +37,8 @@
             return false;
         }
     );
- 
+    
+    
 
 
     $(document).ready( function () {
@@ -49,15 +50,19 @@
       });
 
      
-     $('#event').DataTable( {
+     $('#gatherings').DataTable( {
         "paging":   false,
         "info": false,
         "order": [[ 0, "asc" ]]
       });
 
+     var table = $('#gatherings').DataTable();
+     table.columns( 1 ).search( 'Gathering' ).draw();
     } );
 
+    
 
+    
 
 
 

@@ -9,6 +9,8 @@ description:
 when: 2017-02-12
 start: 1000
 finish: 1200
-category: Celebration
+category:
+    Celebration
+    Gathering
 layout: event
 ---
