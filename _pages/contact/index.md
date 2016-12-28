@@ -55,7 +55,7 @@ order: 10
 
   <!-- Start google map -->
   <section id="google-map">
-    <div class="overlay" onClick="style.pointerEvents='none'"></div>
+    <div class="map-overlay" onClick="style.pointerEvents='none'"></div>
     <iframe src="https://www.google.com/maps/d/embed?mid=1Ze8XT6CAQj7TTg-_fJyUCxZ29uk" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     
   </section>
