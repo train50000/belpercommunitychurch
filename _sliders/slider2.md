@@ -1,10 +1,10 @@
 ---
-background-image: /assets/slider-imgs/slider-3.jpg
-background-alt: 'image'
-foreground-image: /assets/slider-imgs/person2.png
-foreground-alt: 'person'
-heading: 'Another slider'
-description: 'Here is some more text about the slider'
+background-image: /assets/slider-imgs/P1020563.JPG
+background-alt: 'Sunset'
+foreground-image: /assets/slider-imgs/Christians_Against_Poverty_logo.png
+foreground-alt: 'CAP logo'
+heading: 'CAP Debt Centre'
+description: 'We partner with CAP and other churches in Belper to offer free debt counselling'
 link-text: 'Read more'
-link-url: '#'
+link-url: '/about/CAP-debt-centre/'
 ---
