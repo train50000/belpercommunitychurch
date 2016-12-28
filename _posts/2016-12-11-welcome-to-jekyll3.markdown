@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-12-09 14:26:10 +0000
+title:  "Welcome to Jekyll 3"
+date:   2016-12-11 14:26:10 +0000
 categories: jekyll update
 image: blog-img-1.jpg
 alt: Test image
