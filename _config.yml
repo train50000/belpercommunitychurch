@@ -29,3 +29,10 @@ collections:
   events:
     output: true
     permalink: /calendar/:path/
+defaults:
+    -
+        scope: 
+            path: ""
+            type: events
+        values:
+            icon: fa-calendar
