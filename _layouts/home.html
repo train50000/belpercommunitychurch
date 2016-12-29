@@ -27,7 +27,7 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">{{ slider.heading }}</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">{{ slider.description }}</p>
-                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="{{ slider.link-url }}">{{ slider.link-text}}</a>
+                  {% if slider.link-url %}<a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="{{ slider.link-url }}">{{ slider.link-text}}</a>{% endif %}
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
