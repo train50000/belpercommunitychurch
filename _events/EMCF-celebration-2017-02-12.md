@@ -14,3 +14,4 @@ category:
     Gathering
 layout: event
 ---
+All meeting together as a culmination of the 'Recasting the Vision' initiative.
