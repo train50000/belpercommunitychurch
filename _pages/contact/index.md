@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-icon: fa-envelope
+icon: fa-comments-o
 description: How to get in touch with us
 order: 10
 ---

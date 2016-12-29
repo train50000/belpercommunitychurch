@@ -3,6 +3,7 @@ layout: page
 title: Gatherings
 permalink: /gatherings/
 order: 2
+icon: fa-users
 ---
 We usually meet together as a whole church on the 1st, 2nd and 4th Sundays of each month.
 
