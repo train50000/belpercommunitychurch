@@ -60,11 +60,18 @@
      $('#gatherings').DataTable( {
         "paging":   false,
         "info": false,
-        "order": [[ 0, "asc" ]]
+        "order": [[ 0, "asc" ]],
+
+        "columnDefs": [
+            {
+                "targets": [ 0, 2 ],
+                "visible": false
+            }
+        ]
       });
 
      var table = $('#gatherings').DataTable();
-     table.columns( 1 ).search( 'Gathering' ).draw();
+     table.columns( 2 ).search( 'Gathering' ).draw();
     } );
 
     

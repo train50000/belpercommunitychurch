@@ -23,10 +23,9 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-calendar service-icon"></i>
                   <h4 class="service-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-                    <p>{{ event.description }}</p>
+                    
                     <p>{{ event.when | date: '%d %B %Y'}}</p>
-                    <p>{{ event.venue }}</p>
-                    <p>{{ event.start }} - {{ event.finish }}</p>
+                    <p>{{ event.description }}</p>
                 
                 </div>
               </div>

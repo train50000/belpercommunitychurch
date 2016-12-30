@@ -24,13 +24,23 @@
             <div class="content">
               <div class="row">
                 <div class="col-md-8">
-                  {{ content }}
+                  <div class="blog-archive-left">
+                  
+                    <article class="blog-news-single">
+                      
+                      {{ content }}
+                    </article>
+                  </div>
                 </div>
                 <div class="col-md-4">
-
-                <p>Venue: {{ page.venue }}</p>
-                <p>Address: {{ page.address }}, {{ page.postcode }}</p>
-                <p>When: {{ page.date | date: "%-d %B %Y" }} from {{ page.start }} - {{ page.finish }}</p>
+                  <aside class="blog-side-bar">
+                  <div class="sidebar-widget">
+                    <h4 class="widget-title">Event details</h4>
+                    <p>Venue: {{ page.venue }}</p>
+                    <p>Address: {{ page.address }}, {{ page.postcode }}</p>
+                    <p>When: {{ page.date | date: "%A, %-d %B %Y" }} from {{ page.starttime }} - {{ page.finishtime }}</p>
+                  </div>
+                  <aside class="blog-side-bar">
               </div>
             </div>
           </div>
