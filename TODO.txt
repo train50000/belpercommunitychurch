@@ -1,5 +1,0 @@
-- How to deploy to GH pages
-- Images
-- Migrate content from old site
-- RSS feed
-- Subscription via RSS & mailchimp
