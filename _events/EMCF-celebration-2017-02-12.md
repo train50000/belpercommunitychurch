@@ -7,8 +7,8 @@ allday: false
 description: 
     All of us together
 when: 2017-02-12
-start: 1000
-finish: 1200
+starttime: 1000
+finishtime: 1200
 category:
     Celebration
     Gathering
