@@ -46,7 +46,14 @@
 
 
     $('#calendar').DataTable( {
-        "order": [[ 0, "asc" ]]
+        "order": [[ 0, "asc" ]],
+
+        "columnDefs": [
+            {
+                "targets": [ 0 ],
+                "visible": false
+            }
+        ]
       });
 
      
@@ -63,6 +70,8 @@
     
 
     
+
+
 
 
 
