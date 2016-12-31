@@ -47,3 +47,16 @@ section#subscribe {
   background-image: url(/assets/img/P1020563.JPG);
 }
 
+.blog-news-img {
+  position:relative;
+  z-index:0;
+}
+
+.img-credit {
+  position:absolute;
+  z-index:1;
+  right:0;
+  bottom:0;
+
+}
+
