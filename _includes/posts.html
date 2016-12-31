@@ -3,7 +3,8 @@
 <div class="col-md-4">
     <article class="blog-news-single">
       <div class="blog-news-img">
-        <a href="{{ post.url }}"><img src="{{ site.github.url }}/assets/post-images/{{ post.image }}" alt="{{ post.alt }}"></a>
+        <a href="{{ post.url }}"><img src="/assets/post-images/{{ post.image }}" alt="{{ post.alt }}"></a>
+         {% if post.img-credit %}<p class="img-credit">Image credit: <a href="{{ post.img-credit-url }}" target="_blank">{{ post.img-credit }}</a></p>{% endif %}
       </div>
       <div class="blog-news-title">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

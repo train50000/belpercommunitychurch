@@ -19,7 +19,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li{% if page.url == "/" %} class="active"{% endif %}><a href="/">Home</a></li>
+            <li{% if page.url == "/" %} class="active"{% endif %}><a href="{{ site.baseurl }}/">Home</a></li>
             {% assign nodes = site.pages | sort: 'order' %}
             {% for node in nodes %}
               {% assign node_parts = node.url | split: '/' %}
@@ -27,7 +27,7 @@
               {% if node_depth == 2 %}
                 {% if node.order %}
                         <li{% if page.url contains node.url %} class="current"{% endif %}>
-                            <a href="{{ node.url }}">{{ node.title }}</a>
+                            <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
                         </li>
                 {% endif %}
               {% endif %}
