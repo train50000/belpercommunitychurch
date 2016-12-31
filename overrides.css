@@ -55,7 +55,7 @@ section#subscribe {
 .img-credit {
   position:absolute;
   z-index:1;
-  right:5;
+  right:5px;
   bottom:0;
 }
 

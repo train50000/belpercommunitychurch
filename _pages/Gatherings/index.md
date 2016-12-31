@@ -8,7 +8,8 @@ icon: fa-users
 <div class="col-md-4">
     <article class="blog-news-single">
       <div class="blog-news-img">
-        <img src="/assets/img/meerkat-1392860_640.jpg" alt="Three meerkats - Pixabay">
+        <img src="{{ site.github.url }}/assets/img/april-789600_640.jpg" alt="Three meerkats - Pixabay">
+        <p class="img-credit">Image credit: <a href="https://pixabay.com/en/april-chicks-boy-geese-789600/" target="_blank">Pixabay</a></p>
       </div>
       <div class="blog-news-title">
         <h2>Triplets</h2> 
@@ -26,7 +27,8 @@ icon: fa-users
 <div class="col-md-4">
     <article class="blog-news-single">
       <div class="blog-news-img">
-        <img src="/assets/img/meerkat-164921_640.jpg" alt="Meerkat family group - Pixabay">
+        <img src="{{ site.github.url }}/assets/img/meerkat-164921_640.jpg" alt="Meerkat family group - Pixabay">
+         <p class="img-credit">Image credit: <a href="https://pixabay.com/en/meerkat-meerkats-family-group-odd-164921/" target="_blank">Pixabay</a></p>
       </div>
       <div class="blog-news-title">
         <h2>Small groups</h2>
@@ -46,7 +48,8 @@ icon: fa-users
 <div class="col-md-4">
     <article class="blog-news-single">
       <div class="blog-news-img">
-        <img src="/assets/post-images/blog-img-1.jpg" alt="Whole church">
+        <img src="{{ site.github.url }}/assets/img/penguins-3544315604_0f10b25572_z.jpg" alt="Whole church">
+        <p class="img-credit">Image credit: <a href="https://www.flickr.com/photos/antoinecorbiere/3544315604" target="_blank">DocAC</a></p>
       </div>
       <div class="blog-news-title">
         <h2>Whole church</h2>
