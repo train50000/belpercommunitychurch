@@ -7,31 +7,33 @@ description:
 icon: fa-question-circle
 order: 1
 ---
-<div class="row">
-<div class="col-md-6">
+
+<div class="col-md-12">
+  <div class="title-area">
+    <h2 class="title">Our values</h2>
+    <span class="line"></span>
+    
+  </div>
   
-    <h2 class="title">Our vision</h2>     
-    <p>To be filled with God’s presence and power, through which lives and communities will be transformed.</p>
-    <p>As a family, we want people to be encouraged, through discipleship, to be authentic followers of Jesus, so that they can play their full part in God’s plan.</p>
-    <h2>What we do</h2>
-    <p>We are a truly intergenerational family from newborns to grannies and grandads!</p>
-    <p>We are more than a Sunday morning church; getting together regularly in weekly smaller groups, over kitchen tables, in coffee shops, pubs and elsewhere.</p>
+            <div class="row">
+              
+              {% for value in site.data.values %}
+              {% assign n = forloop.index %}
+              {% if n == 4 %}
+                </div><div class="row">
+              {% endif %}
+              <div class="col-md-4 col-sm-6">
+                <div class="single-service wow zoomIn">
+                  <i class="fa fa-thumbs-up service-icon"></i>
+                  <h4 class="service-title">{{ value.title }}</h4>
+                  <p>{{ value.description }}</p>
+                </div>
+              </div>
+              
+              {% endfor %}
+            </div>
   </div>
 
-<div class="col-md-6">
-  
-    <h2 class="title">Our values</h2>
-    <ol>
-      <li><b>Identity: </b>Belper Community Church is a place where everyone knows that they are sons and daughters of God, and that they belong and have a role to play.</li>
-      <li><b>Discipleship: </b>Belper Community Church is a place where people will grow up into maturity and develop in their knowledge and love of Christ and each other</li>
-      <li><b>Family: </b>Belper Community Church is a safe place where everyone knows they belong.</li>
-      <li><b>Mission: </b>For members of BCC to be a positive witness to Christ in their day-to-day lives. We expect this to be accompanied by demonstrations of God’s power both in church and outside.</li>
-      <li><b>Presence: </b>Belper Community Church will be Spirit-filled; with our lives and our worship impacted on a daily basis by the Holy Spirit working supernaturally.</li>
-      <li><b>Transformation: </b>Belper Community Church will be involved with and integrated into our community &#8211; being a faithful presence and making a positive impact on the people and the environment.</li>
-    </ol>
-  </div>
-</div>
-  
 
   
 
