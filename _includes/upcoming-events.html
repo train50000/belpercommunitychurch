@@ -1,6 +1,9 @@
 
+              
+<div class="row">
 
 {% assign allEvents = site.events | sort:'when' %}
+
 {% for event in allEvents %}
   
   {% capture eventDate %}
@@ -14,7 +17,7 @@
   {% endcapture %}
 
   {% if eventDate > unixNow and eventDate < unix2Months %}
-  
+
 
   
 
@@ -28,9 +31,12 @@
   
   </div>
 </div>
+
+    
 {% endif %}
   
 {% endfor %}
+</div>
 
     
     
