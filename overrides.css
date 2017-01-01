@@ -57,6 +57,9 @@ section#subscribe {
   z-index:1;
   right:5px;
   bottom:0;
+  background-color: #000;
+  opacity: 0.8;
+  padding: 2px 6px;
 }
 
 .img-credit a {
