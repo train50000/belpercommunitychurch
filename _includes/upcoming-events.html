@@ -1,39 +1,38 @@
-<!-- Start single service -->
-              
 
-              {% assign allEvents = site.events | sort:'when' %}
-              {% for event in allEvents %}
-                
-                {% capture eventDate %}
-                  {{ event.when | date: '%s'}}
-                {% endcapture %}
-                {% capture unixNow %}
-                  {{ 'now' | date: '%s' }}
-                {% endcapture %}
-                {% capture unix2Months %}
-                  {{ unixNow | plus: 5259486 }}
-                {% endcapture %}
 
-                {% if eventDate > unixNow and eventDate < unix2Months %}
-                
+{% assign allEvents = site.events | sort:'when' %}
+{% for event in allEvents %}
+  
+  {% capture eventDate %}
+    {{ event.when | date: '%s'}}
+  {% endcapture %}
+  {% capture unixNow %}
+    {{ 'now' | date: '%s' }}
+  {% endcapture %}
+  {% capture unix2Months %}
+    {{ unixNow | plus: 5259486 }}
+  {% endcapture %}
 
-                
+  {% if eventDate > unixNow and eventDate < unix2Months %}
+  
 
-                <div class="col-md-4 col-sm-6">
-                <div class="single-service wow zoomIn">
-                  <i class="fa fa-calendar service-icon"></i>
-                  <h4 class="service-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-                    
-                    <p>{{ event.when | date: '%d %B %Y'}}</p>
-                    <p>{{ event.description }}</p>
-                
-                </div>
-              </div>
-              {% endif %}
-                
-              {% endfor %}
-              
-                  
-                  
-                
-              <!-- End single service -->
+  
+
+  <div class="col-md-4 col-sm-6">
+  <div class="single-service wow zoomIn">
+    <i class="fa fa-calendar service-icon"></i>
+    <h4 class="service-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
+      
+      <p>{{ event.when | date: '%d %B %Y'}}</p>
+      <p>{{ event.description }}</p>
+  
+  </div>
+</div>
+{% endif %}
+  
+{% endfor %}
+
+    
+    
+  
+<!-- End single service -->

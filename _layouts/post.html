@@ -25,7 +25,14 @@
                   <div class="col-md-4">
                     <div class="blog-news-img">
                       <img src="/assets/post-images/{{ page.image }}" alt="{{ page.alt }}">
-                       {% if page.img-credit %}<p class="img-credit">Image credit: <a href="{{ page.img-credit-url }}" target="_blank">{{ page.img-credit }}</a></p>{% endif %}
+                       {% if page.img-credit %}
+                        <p class="img-credit">Image credit: 
+                        {% if page.img-credit-url %}
+                          <a href="{{ page.img-credit-url }}" target="_blank">{{ page.img-credit }}</a></p>
+                        {% else %}
+                          {{ page.img-credit }}</p>
+                        {% endif %}
+                      {% endif %}
                     </div>
                   </div>
                   <div class="col-md-8">
