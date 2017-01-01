@@ -72,3 +72,7 @@ section#subscribe {
   padding-left: 20px;
 }
 
+.mc-field-group {
+  display: none;
+}
+
