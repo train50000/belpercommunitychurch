@@ -1,6 +1,6 @@
 - How to deploy to GH pages
 - Fix page layout on mobile (no margins)
-- 
+- 404 page
 - Images
 - Migrate content from old site
 - RSS feed
