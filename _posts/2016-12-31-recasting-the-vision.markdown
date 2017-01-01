@@ -4,26 +4,26 @@ title:  "Recasting the vision"
 date:   2016-12-31
 categories: news
 image: glass-roof-640.png
-img-credit-url: #
+img-credit-url: 
 img-credit: Mark Berthelemy
 alt: Glass roof
+excerpt_separator: <!--more-->
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2017 seems to be building to be a significant year so we will launch the beginning of the year with both a look back on the last year and a look forward to all the God has for us!
+ <!--more-->
+ 
+If we’re in the purposes of God the right question isn’t necessarily “what’s the vision?” it is perhaps “where is the growth and what’s the next step?”. I hope this season of vision casting will inspire us and our people to ask: “What’s next Lord?”
+ 
+So, here is an outline of some of the things in the pipeline…
+ 
+## Vision Month
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We are taking the five Sundays from 8th Jan – 5th Feb to talk vision, growth and more.
+ 
+## EMCF Celebration
 
-Jekyll also offers powerful support for code snippets:
+The Recasting the Vision season builds towards an EMCF Celebration on Sunday 12th February, back in the morning (10.30am) at The Riverside Centre. We have guest speakers, Steve and Angie Campbell from C3 in Cambridge, with us that day.
+ 
+## Prayer and Fasting
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Later in the spring of 2017 we are planning a lent season of Prayer and Fasting – similar to previous years where we have done this across EMCF.
