@@ -21,6 +21,7 @@ icon: fa-users
             <li>Prayer and encouragement</li>
             <li>Accountable to each other</li>
         </ul>
+        <p><a href="/contact">Let us know</a> if you want help to connect with people to make a Triplet</p>
       </div>
     </article>
 </div>
@@ -41,7 +42,7 @@ icon: fa-users
             <li>Meeting a couple of times a month</li>
             <li>Experiencing God</li>
         </ul>
-        
+        <p><a href="/contact">Let us know</a> if you want help to connect with people to make a Triplet</p>
       </div>
     </article>
 </div>
@@ -62,6 +63,7 @@ icon: fa-users
             <li>Age-appropriate teaching</li>
             <li>Sharing stories</li>
         </ul>
+        <p><a href="/contact">Let us know</a> if you want help to connect with people to make a Triplet</p>
       </div>
     </article>
 </div>
