@@ -5,7 +5,7 @@ permalink: /gatherings/
 order: 2
 icon: fa-users
 ---
-<div class="col-md-4">
+<div class="col-md-4 col-sm-6">
     <article class="blog-news-single">
       <div class="blog-news-img">
         <img src="/assets/img/april-789600_640.jpg" alt="Three meerkats - Pixabay">
@@ -25,7 +25,7 @@ icon: fa-users
       </div>
     </article>
 </div>
-<div class="col-md-4">
+<div class="col-md-4 col-sm-6">
     <article class="blog-news-single">
       <div class="blog-news-img">
         <img src="/assets/img/meerkat-164921_640.jpg" alt="Meerkat family group - Pixabay">
@@ -46,7 +46,7 @@ icon: fa-users
       </div>
     </article>
 </div>
-<div class="col-md-4">
+<div class="col-md-4 col-sm-6">
     <article class="blog-news-single">
       <div class="blog-news-img">
         <img src="/assets/img/penguins-3544315604_0f10b25572_z.jpg" alt="Whole church">
@@ -67,7 +67,7 @@ icon: fa-users
       </div>
     </article>
 </div>
-
+<div class="clearfix"></div>
 
 <hr />
 
