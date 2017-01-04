@@ -15,3 +15,5 @@ category:
 layout: event
 ---
 The Recasting the Vision season builds towards an EMCF Celebration on Sunday 12th February, back in the morning (10.30am) at The Riverside Centre. We have guest speakers, Steve and Angie Campbell from C3 in Cambridge, with us that day.
+
+There will be no meeting in Belper today.
