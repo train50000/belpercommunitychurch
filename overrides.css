@@ -38,6 +38,10 @@ h2 span {
    margin-top:-450px;  /* your iframe height */
 }
 
+#menu-area {
+  z-index: 1000;
+}
+
 section#subscribe {
   background-image: url(/assets/img/subscribe-bg.png);
 }
@@ -79,6 +83,12 @@ section#subscribe {
   height: 22px;
   font-size: 30px;
   margin-right: 7px;
+}
+
+@media (max-width: 991px) {
+  .title-area {
+      padding: 10px 100px;
+  }
 }
 
 /* Navbar collapse for tablets */
