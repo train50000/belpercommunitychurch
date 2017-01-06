@@ -1,28 +1,37 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="grid">
-
-      <div class="col_8"> <!-- Content -->
-        <h2>{{ page.title }}</h2>
-        {% include posts-list.html %}
-        
-      </div> <!-- End of content -->
-      <div class="col_4"> <!-- Sidebar -->
-        {% include side-menu.html %}
-      </div> <!-- End of Sidebar -->
-    
-    <div class="col_12">
-      {% include footer.html %}
+<body>
+   {% include header.html %}
+   {% include page_header.html %}
+   <!-- Start content section  -->
+  <section id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 content">
+          <div class="page-area">
+            {% include posts.html %}
+            </div>
+          </div>
+      </div>
     </div>
-    </div> <!-- End of grid -->
+  </section>
+
+{% include subscribe.html %}
+
+
+  <!-- End content section  -->
+
+
+
+
+  {% include footer.html %}
+
+
+  
+    {% include javascripts.html %}
   </body>
+
 
 </html>
 

@@ -1,0 +1,29 @@
+<table class="dataTable" id="{{ include.ID }}">
+    <thead>
+    <tr>
+        <th>Hidden date</th>
+        <th>Date</th>
+        <th>Category</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Venue</th>
+        <th>Time</th>
+    </tr>
+</thead>
+<tbody>
+{% for event in site.events %}
+    
+    <tr>
+        <td>{{ event.when | date: %s }}</td>
+        <td>{{ event.when | date: '%d %B %Y'}}</td>
+        <td>{{ event.category }}</td>
+        <td><a href="{{ event.url }}index.html">{{ event.title }}</a></td>
+        <td>{{ event.description }}</td>
+        <td>{{ event.venue }}</td>
+        <td>{{ event.starttime }} - {{ event.finishtime }}</td>
+    </tr>
+
+
+{% endfor %}
+</tbody>
+</table>

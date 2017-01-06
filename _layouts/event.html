@@ -20,29 +20,28 @@
       <div class="row">
         <div class="col-md-12">
           <div class="page-area">
-            <h1 class="title"><span class="fa fa-calendar"></span> {{ page.title }}</h1>
+            
             <div class="content">
-                <p>{{ page.description }}</p>
-                <p>Venue: {{ page.venue }}</p>
-                <table class="dataTable" id="event">
-                  <thead>
-                  <tr>
-                      <th>Date</th>
-                      <th>Time</th>
-                  </tr>
-              </thead>
-              <tbody>
-
-                {% for date in page.dates %}
+              <div class="row">
+                <div class="col-md-8">
+                  <div class="blog-archive-left">
                   
-                  <tr>
-                      <td>{{ date.date | date: '%d %B %Y'}}</td>                
-                  
-                      <td>{{ date.start }} - {{ date.finish }}</td>
-                  </tr>
-              {% endfor %}
-              </tbody>
-              </table>
+                    <article class="blog-news-single">
+                      
+                      {{ content }}
+                    </article>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <aside class="blog-side-bar">
+                  <div class="sidebar-widget">
+                    <h4 class="widget-title">Event details</h4>
+                    <p>Venue: {{ page.venue }}</p>
+                    <p>Address: {{ page.address }}, {{ page.postcode }}</p>
+                    <p>When: {{ page.date | date: "%A, %-d %B %Y" }} from {{ page.starttime }} - {{ page.finishtime }}</p>
+                  </div>
+                  <aside class="blog-side-bar">
+              </div>
             </div>
           </div>
         </div>
@@ -53,6 +52,7 @@
 
 
   <!-- End content section  -->
+{% include subscribe.html %}
 
 
 

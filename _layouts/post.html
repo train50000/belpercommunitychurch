@@ -1,15 +1,78 @@
----
-layout: default
----
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<!DOCTYPE html>
+<html>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+  {% include head.html %}
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+  
+<body>
 
-</article>
+   {% include header.html %}
+   {% include page_header.html %}
+
+   <!-- Start content section  -->
+  <section id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 content">
+          <div class="page-area">
+            
+                <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+                  <header class="post-header">
+                    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+                    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+                  </header>
+                  <div class="col-md-4">
+                    <div class="blog-news-img">
+                      <img src="/assets/post-images/{{ page.image }}" alt="{{ page.alt }}">
+                       {% if page.img-credit %}
+                        <p class="img-credit">Image credit: 
+                        {% if page.img-credit-url %}
+                          <a href="{{ page.img-credit-url }}" target="_blank">{{ page.img-credit }}</a></p>
+                        {% else %}
+                          {{ page.img-credit }}</p>
+                        {% endif %}
+                      {% endif %}
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                  <div class="post-content" itemprop="articleBody">
+                    {{ content }}
+                  </div>
+                </div>
+
+                </article>
+            
+          
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </section>
+
+{% include subscribe.html %}
+
+
+  <!-- End content section  -->
+
+
+
+
+  {% include footer.html %}
+
+
+  
+    {% include javascripts.html %}
+  </body>
+
+
+</html>
+
+
+
+  
+
+  
+
+

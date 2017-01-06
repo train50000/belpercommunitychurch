@@ -1,0 +1,133 @@
+
+/* BCC overrides */
+
+.box {
+	padding: 5px;
+	background-color: white;
+
+}
+
+.content {
+    padding:70px 0 30px 0;
+}
+
+.h300 {
+	height: 300px;
+
+}
+
+h2 span {
+    margin-right: 30px;
+}
+
+.cotact-area {
+    padding-bottom: 30px;
+    }
+
+.dark {
+  color: #ff871c;
+  border-color: #ff871c;
+}
+
+.map-overlay {
+   background:transparent; 
+   position:relative; 
+   width:100%;
+   height:450px; /* your iframe height */
+   top:450px;  /* your iframe height */
+   margin-top:-450px;  /* your iframe height */
+}
+
+#menu-area {
+  z-index: 1000;
+}
+
+section#subscribe {
+  background-image: url(/assets/img/subscribe-bg.png);
+}
+
+#single-page-header {
+  background-image: url(/assets/img/P1020563.JPG);
+}
+
+.blog-news-img {
+  position:relative;
+  z-index:0;
+}
+
+.img-credit {
+  position:absolute;
+  z-index:1;
+  right:5px;
+  bottom:0;
+  background-color: #000;
+  opacity: 0.8;
+  padding: 2px 6px;
+}
+
+.img-credit a {
+  color: #8388aa;
+  }
+
+.blog-news-details ul {
+  list-style-type: disc;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.mc-field-group {
+  display: none;
+}
+
+.comments-form input[type="checkbox"] {
+  height: 22px;
+  font-size: 30px;
+  margin-right: 7px;
+}
+
+@media (max-width: 991px) {
+  .title-area {
+      padding: 10px 100px;
+  }
+}
+
+/* Navbar collapse for tablets */
+
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}
+
+

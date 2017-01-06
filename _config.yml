@@ -21,10 +21,18 @@ github_username:  berthelemy
 markdown: kramdown
 
 include: ["_pages"]
-permalink: /:title/
+exclude: ["*.sublime-project","*.sublime-workspace","_build-instructions.txt"]
+permalink: /news/:title/
 
 collections:
   sliders:
   events:
     output: true
     permalink: /calendar/:path/
+defaults:
+    -
+        scope: 
+            path: ""
+            type: events
+        values:
+            icon: fa-calendar
