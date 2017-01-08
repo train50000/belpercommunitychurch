@@ -69,8 +69,13 @@ section#subscribe {
   color: #8388aa;
   }
 
-.blog-news-details ul {
+.content ul {
   list-style-type: disc;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.content ol {
   padding-bottom: 10px;
   padding-left: 20px;
 }
