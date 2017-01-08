@@ -3,7 +3,7 @@ layout: post
 title:  The significance of identity
 date:   2017-01-08
 categories: news
-image: identity.png
+image: identity.PNG
 alt: Casting iron - with title
 excerpt_separator: <!--more-->
 ---
