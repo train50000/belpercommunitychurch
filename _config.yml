@@ -29,6 +29,7 @@ collections:
   events:
     output: true
     permalink: /calendar/:path/
+
 defaults:
     -
         scope: 
@@ -36,3 +37,9 @@ defaults:
             type: events
         values:
             icon: fa-calendar
+    -
+        scope: 
+            path: ""
+            type: posts
+        values:
+            excerpt_separator: <!--more-->
