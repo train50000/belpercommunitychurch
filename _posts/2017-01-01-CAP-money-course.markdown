@@ -9,7 +9,7 @@ img-credit-url: https://pixabay.com/en/pound-coins-currency-bank-note-414418/
 alt: Money
 ---
 Belper Community Church has a number of trained CAP Money coaches, and we run courses throughout the year.
-
+<!--more-->
 If you are interested in taking part, please get in touch with Riaan, Terry or Linda.
 
 <img src="/assets/post-images/cap-money-course-logo_green.png" width="100" />

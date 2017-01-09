@@ -9,7 +9,7 @@ img-credit-url:
 alt: Christmas lights
 ---
 We had a great time again at the Greyhound Inn on the Sunday before Christmas 2016.
-
+<!--more-->
 Thanks to Tim and his team for making us so welcome.
 
 And to the choir, band and all who helped set up.
