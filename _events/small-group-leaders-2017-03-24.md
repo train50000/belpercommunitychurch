@@ -6,7 +6,7 @@ postcode: DE56 0DB
 allday: false
 description: 
     For all small group and ministry leaders
-when: 2017-03-10
+when: 2017-03-24
 starttime: 1930
 finishtime: 2100
 category:
