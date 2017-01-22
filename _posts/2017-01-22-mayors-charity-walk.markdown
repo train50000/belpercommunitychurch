@@ -10,7 +10,7 @@ img-credit-url:
 excerpt_separator: <!--more-->
 ---
 Gary Spendlove, Belper's mayor for 2016/17 and managing director of a local clothing company, is doing a 100 mile walk around Derbyshire and Nottinghamshire at the end of January to raise awareness of carrying an organ donor card.
-
+<!--more-->
 The tough, hilly route will take in a number of local hospitals, in Belper, Matlock Bath, Chesterfield, Mansfield, Ilkeston and Derby.
 
 Gary has asked for the Belper churches to pray for him and his colleague, Simon Elmore. They would also welcome any <a href="http://www.justgiving.com/companyteams/TheEpicWalkForLife" target="_blank">donations</a> to the charities they are supporting.
