@@ -5,7 +5,7 @@ date:   2017-01-22
 categories: news
 image: P1010564.JPG
 alt: Footpath signs
-image-credit: Mark Berthelemy
+img-credit: Mark Berthelemy
 img-credit-url: 
 excerpt_separator: <!--more-->
 ---

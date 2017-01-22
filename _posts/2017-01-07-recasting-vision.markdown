@@ -5,7 +5,7 @@ date:   2017-01-07
 categories: news
 image: recasting.jpg
 alt: Casting iron
-image-credit: Rajesh Pamnani
+img-credit: Rajesh Pamnani
 img-credit-url: https://www.flickr.com/photos/pamnani/7549791866/
 excerpt_separator: <!--more-->
 ---
