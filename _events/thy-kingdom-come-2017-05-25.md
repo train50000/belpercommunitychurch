@@ -16,5 +16,5 @@ Join with thousands around the world, praying that our friends, neighbours, coll
 
 <a href="https://www.thykingdomcome.global/" target="_blank">Pledge to pray as a family or an individual</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4m9h3FoeXNA" frameborder="0" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/4m9h3FoeXNA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4m9h3FoeXNA" frameborder="0" allowfullscreen></iframe>
 
