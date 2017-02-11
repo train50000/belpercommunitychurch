@@ -14,7 +14,7 @@ layout: event
 ---
 Join with thousands around the world, praying that our friends, neighbours, colleagues and workmates will come to know Jesus Christ.  Jesus reminds us that “with people, this is impossible, but with God, all things are possible” (Matthew 19:26).
 
-<div class="text-center">
+<div markdown="1" class="text-center">
 
 <p><a href="https://www.thykingdomcome.global/" target="_blank"><button type="button" class="btn btn-primary">Pledge to pray as a family or an individual</button></a><p>
 
