@@ -1,14 +1,14 @@
 ---
 title: "Thy Kingdom Come"
-venue: 
-address: 
+venue: N/A
+address: N/A
 postcode: 
 allday: true
 description: 
   A global wave of prayer from 25th May – 4th June 2017
 when: 2017-05-25
-starttime: 
-finishtime: 
+starttime: N/A
+finishtime: N/A
 category: Special
 layout: event
 ---
