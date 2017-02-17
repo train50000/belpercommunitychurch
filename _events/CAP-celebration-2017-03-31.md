@@ -12,4 +12,4 @@ finishtime: 2130
 category: Special
 layout: event
 ---
-
+<img src="/assets/img/CAP_Web banner_Belper-765x550px.jpg" alt="invitation to the celebration" />
