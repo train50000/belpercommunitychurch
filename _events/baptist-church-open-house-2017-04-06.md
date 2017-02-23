@@ -12,4 +12,4 @@ finishtime: 1200
 category: Special
 layout: event
 ---
-An open house coffee morning in aid of <a href="https://www.macmillan.org.uk/" target="_blank">Macmillan Cancer Support</a>
+An open house coffee morning, hosted by our friends at Belper Baptist Church, in aid of <a href="https://www.macmillan.org.uk/" target="_blank">Macmillan Cancer Support</a>
