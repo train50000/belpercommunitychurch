@@ -16,16 +16,16 @@
     {{ unixNow | plus: 5259486 }}
   {% endcapture %}
 
+
   {% if eventDate > unixNow and eventDate < unix2Months %}
 
 
-  
 
   <div class="col-md-4 col-sm-6">
   <div class="single-service wow zoomIn">
     <i class="fa fa-calendar service-icon"></i>
     <h4 class="service-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-      
+      <p>Event date: {{ eventDate }} Now: {{ unixNow }}</p>
       <p>{{ event.when | date: '%d %B %Y'}}</p>
       <p>{{ event.description }}</p>
   
