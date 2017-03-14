@@ -71,6 +71,6 @@ icon: fa-users
 
 <hr />
 
-<h2>Upcoming Sunday gatherings</h2>
+<h2>Upcoming whole church gatherings</h2>
 
 {% include events-table.html ID="gatherings" %}
