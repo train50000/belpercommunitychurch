@@ -55,6 +55,11 @@ section#subscribe {
   z-index:0;
 }
 
+.blog-news-single img {
+  max-width:100%;
+  max-height:100%;
+}
+
 .img-credit {
   position:absolute;
   z-index:1;
