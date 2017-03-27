@@ -5,7 +5,7 @@ address: "Pontfaen, Fishguard, Pembrokeshire, Wales"
 postcode: SA65 9UA
 allday: true
 description: 
-  Keeping in step with the Spirit
+  Keeping in step with the Spirit - from 19th - 23rd June
 when: 2017-06-19
 starttime: 
 finishtime: 

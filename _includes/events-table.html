@@ -20,7 +20,7 @@
         <td><a href="{{ event.url }}index.html">{{ event.title }}</a></td>
         <td>{{ event.description }}</td>
         <td>{{ event.venue }}</td>
-        <td>{{ event.starttime }} - {{ event.finishtime }}</td>
+        <td>{% if event.allday == false %}{{ event.starttime }} - {{ event.finishtime }}{% else %}All day{% endif %}</td>
     </tr>
 
 
