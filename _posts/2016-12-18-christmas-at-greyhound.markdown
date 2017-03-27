@@ -6,6 +6,7 @@ categories: news
 image: christmas-lights.jpg
 img-credit: Mark Berthelemy
 img-credit-url: 
+img-display: true
 alt: Christmas lights
 ---
 We had a great time again at the Greyhound Inn on the Sunday before Christmas 2016.

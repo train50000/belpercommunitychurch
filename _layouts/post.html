@@ -22,7 +22,9 @@
                     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
                     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
                   </header>
+                  {% if page.img-display %}
                   <div class="col-md-4">
+
                     <div class="blog-news-img">
                       <img src="/assets/post-images/{{ page.image }}" alt="{{ page.alt }}">
                        {% if page.img-credit %}
@@ -36,6 +38,9 @@
                     </div>
                   </div>
                   <div class="col-md-8">
+                  {% else %}
+                  <div class="col-md-12">
+                  {% endif %}
                   <div class="post-content" itemprop="articleBody">
                     {{ content }}
                   </div>

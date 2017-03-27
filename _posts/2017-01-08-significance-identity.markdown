@@ -7,6 +7,7 @@ image: identity.PNG
 alt: Casting iron - with title
 img-credit: Rajesh Pamnani
 img-credit-url: https://www.flickr.com/photos/pamnani/7549791866/
+img-display: true
 excerpt_separator: <!--more-->
 ---
 Mark Mumford spoke this morning as part of EMCF's Recasting the Vision month

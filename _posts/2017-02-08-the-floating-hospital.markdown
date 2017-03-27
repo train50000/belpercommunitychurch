@@ -7,6 +7,7 @@ image: floating-hospital-640.png
 alt: Scene from the video
 img-credit: BBC
 img-credit-url: http://www.bbc.co.uk/iplayer/cbbc/episode/b03w79ft/ad/my-life-series-5-3-the-floating-hospital
+img-display: true
 excerpt_separator: <!--more-->
 ---
 Tom recommends a video to watch...

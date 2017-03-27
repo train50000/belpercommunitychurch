@@ -7,6 +7,7 @@ image: glass-roof-640.png
 img-credit-url: 
 img-credit: Mark Berthelemy
 alt: Glass roof
+img-display: true
 excerpt_separator: <!--more-->
 ---
 2017 seems to be building to be a significant year so we will launch the beginning of the year with both a look back on the last year and a look forward to all the God has for us!

@@ -7,6 +7,7 @@ image: recasting.jpg
 alt: Casting iron
 img-credit: Rajesh Pamnani
 img-credit-url: https://www.flickr.com/photos/pamnani/7549791866/
+img-display: true
 excerpt_separator: <!--more-->
 ---
 We are heading into a season of EMCF Vision Casting in January.

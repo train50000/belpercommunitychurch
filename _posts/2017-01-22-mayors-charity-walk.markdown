@@ -7,6 +7,7 @@ image: P1010564.JPG
 alt: Footpath signs
 img-credit: Mark Berthelemy
 img-credit-url: 
+img-display: true
 excerpt_separator: <!--more-->
 ---
 Please pray for the mayor and his team as they set off on a 100 mile charity walk.
