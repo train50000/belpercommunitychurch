@@ -12,6 +12,7 @@ finishtime:
 category: Special
 layout: event
 ---
+<img src="/assets/img/ffald-y-brenin.jpg" alt="ffald y brenin logo" />
 
 # Keeping in Step with the Spirit (Gal 5:25)
 
