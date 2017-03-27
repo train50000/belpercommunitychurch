@@ -1,11 +1,11 @@
 ---
-title: "WTC Kingdom Theology conference<br />Day 1"
+title: "WTC Kingdom Theology conference"
 venue: Woodlands Church
 address: "Woodland Road, Clifton, Bristol"
 postcode: BS8 2AA
 allday: false
 description: 
-  Looking back at an exciting first year of CAP working with the Belper churches
+  Looking at Paul as Pastor, the Church &amp; Slavery, and being Open to the Spirit
 when: 2017-06-17
 starttime: 0930
 finishtime: 1700

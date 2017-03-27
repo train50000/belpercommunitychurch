@@ -5,7 +5,7 @@ address: "Pontfaen, Fishguard, Pembrokeshire, Wales"
 postcode: SA65 9UA
 allday: true
 description: 
-  Looking back at an exciting first year of CAP working with the Belper churches
+  Keeping in step with the Spirit
 when: 2017-06-19
 starttime: 
 finishtime: 
@@ -35,6 +35,6 @@ Please follow the following process:
 - Book your accommodation. An updated list of available accommodation is available upon request by emailing <a href="mailto:bookings@ffald-y-brenin.org">bookings@ffald-y-brenin.org</a>
 - Then, please download your <a href="http://www.ffald-y-brenin.org/UserFiles/File/June_Conf_Booking_Form_2017_v2.pdf">Conference Booking Form</a>, complete it and send it, together with a deposit of &pound;55 per person to: June Conference, Ffald y Brenin, Pontfaen, Fishguard, Pembrokeshire, Wales&nbsp;SA65 9UA.
 
-<a href="http://ffald-y-brenin.charitycheckout.co.uk/JC2017">Online payments</a>
+<a href="http://ffald-y-brenin.charitycheckout.co.uk/JC2017">Make an online payment</a>
 
 If you require any further information please contact Jeanette Martin&nbsp;on :&nbsp;01348 881419
