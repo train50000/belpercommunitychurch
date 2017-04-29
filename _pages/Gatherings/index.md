@@ -71,6 +71,8 @@ icon: fa-users
 
 <hr />
 
+As well as our whole church gatherings (listed below), we also meet regularly to pray for the Church in Belper. Please speak to Henry for more details.
+
 <h2>Upcoming whole church gatherings</h2>
 
 {% include events-table.html ID="gatherings" %}
