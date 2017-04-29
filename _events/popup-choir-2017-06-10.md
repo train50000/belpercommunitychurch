@@ -12,4 +12,4 @@ finishtime: 2130
 category: Special
 layout: event
 ---
-<img src="/assets/img/popup-choir-june-2017" alt="Popup choir leaflet" />
+<img src="/assets/img/popup-choir-june-2017.png" alt="Popup choir leaflet" />
