@@ -14,3 +14,5 @@ At BCC we encourage people to live lives together.
 For some this means sharing meals, for others it's about sharing possessions like cars, and for many it's about sharing time with each other.
 
 <img src="/assets/post-images/green-monkeys-112275_1920-800.jpg" alt="Monkeys looking afte each other" />
+
+Image source: <a href="https://pixabay.com/en/green-monkeys-monkey-112275/" target="_blank">Pixabay</a>

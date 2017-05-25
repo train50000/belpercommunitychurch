@@ -17,7 +17,7 @@ Currently there are chaplains working amongst:
 - Vaillant
 - Holbrook Hall care home
 
-<h2>What is a chaplains</h2>
+<h2>What is a chaplain?</h2>
 
 A person who interacts with people for their emotional and spiritual well-being.
 
@@ -27,4 +27,8 @@ Chaplains are motivated by the Christian faith from which they come to care for 
 
 They are not there to preach but to offer care and comfort and a listening ear
 
-If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>. 
+If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>.
+
+<img src="/assets/post-images/Belper_kingst.jpg" alt="King Street shops, Belper" />
+
+Image credit: <a href="https://en.wikipedia.org/wiki/File:Belper_kingst.jpg" target="_blank">Wikipedia</a>
