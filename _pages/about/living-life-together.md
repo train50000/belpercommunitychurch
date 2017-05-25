@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Chaplains
+title: Living life together
 permalink: /about/chaplains/
 description:
-  With other congregations in Belper, we are providing chaplains to support local workplaces
+  With other congregations in Belper, we have partnered with CAP to offer free debt counselling in our community.
 icon: fa-money
 order: 1
 ---
