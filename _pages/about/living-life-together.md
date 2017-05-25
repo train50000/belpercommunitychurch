@@ -1,30 +1,16 @@
 ---
 layout: page
 title: Living life together
-permalink: /about/chaplains/
+permalink: /about/living-life-together/
 description:
-  With other congregations in Belper, we have partnered with CAP to offer free debt counselling in our community.
-icon: fa-money
+  Sharing our lives, food, possessions, hopes and fears
+icon: fa-users
 order: 1
 ---
-Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.
+Transforming our community involves living in a way that is counter-cultural.
 
-Currently there are chaplains working amongst:
+At BCC we encourage people to live lives together.
 
-- Retail staff in King Street
-- Pottery School
-- St John's School
-- Vaillant
-- Holbrook Hall care home
+For some this means sharing meals, for others it's about sharing possessions like cars, and for many it's about sharing time with each other.
 
-<h2>What is a chaplains</h2>
-
-A person who interacts with people for their emotional and spiritual well-being.
-
-A person who offers non-judgmental support about all aspects of life and work.
-
-Chaplains are motivated by the Christian faith from which they come to care for people and communities.
-
-They are not there to preach but to offer care and comfort and a listening ear
-
-If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>. 
+<img src="/assets/post-images/green-monkeys-112275_1920-800.jpg" alt="Monkeys looking afte each other" />

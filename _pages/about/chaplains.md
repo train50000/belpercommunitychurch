@@ -4,7 +4,7 @@ title: Chaplains
 permalink: /about/chaplains/
 description:
   With other congregations in Belper, we are providing chaplains to support local workplaces
-icon: fa-money
+icon: fa-heart-o
 order: 1
 ---
 Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.
