@@ -14,7 +14,7 @@ Currently there are chaplains working amongst:
 - Retail staff in King Street
 - Pottery School
 - St John's School
-- Vaillant
+- Community Health
 - Holbrook Hall care home
 
 <h2>What is a chaplain?</h2>
