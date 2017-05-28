@@ -3,7 +3,7 @@ venue: New Life Church
 address: Derby
 postcode: DE23 6UU
 description: Free event
-when: 2017-06-08T00:00:00.000Z
+when: 2017-06-08
 starttime: 1930
 finishtime: 2130
 category: Special event
