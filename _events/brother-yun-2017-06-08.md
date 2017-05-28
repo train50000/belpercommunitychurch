@@ -1,4 +1,5 @@
 ---
+title: Brother Yun book tour
 venue: New Life Church
 address: Derby
 postcode: DE23 6UU
