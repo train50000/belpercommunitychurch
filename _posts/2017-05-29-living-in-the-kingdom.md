@@ -3,7 +3,7 @@ layout: post
 title:  "Living in the Kingdom of God"
 date:   2017-05-29
 categories: news
-image: assets/post_images/interactive-science-exhibits-804641_640.jpg
+image: assets/post-images/interactive-science-exhibits-804641_640.jpg
 img-credit: Pixabay
 img-credit-url: https://pixabay.com/en/interactive-science-exhibits-804641/
 img-display: true
