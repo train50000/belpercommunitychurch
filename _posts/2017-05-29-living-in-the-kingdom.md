@@ -10,6 +10,7 @@ img-display: true
 alt: Upside down house
 ---
 The Kingdom of God is a theme that runs all the way through the Bible. And for Jesus it was absolutely key. It was a central part of his preaching and teaching, as he encouraged people to become part of the Kingdom of God.
+<!--more-->
 
 That’s why we’re doing a whole series of talks on it this term. We want to get to grips with what the Kingdom of God means in Belper - and how we can help people to become part of it.
 
