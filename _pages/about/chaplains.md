@@ -8,9 +8,7 @@ icon: fa-heart-o
 order: 1
 ---
  <div class="row">            
-   <div class="col-md-6 col-sm-6">
-      <img src="/assets/img/Belper-polo-logo-400.jpg" />
-      </div>
+   
    <div class="col-md-6 col-sm-6">
       <p>Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.</p>
 
@@ -36,5 +34,7 @@ order: 1
 <p>If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>.</p>
 
 </div>
-
+<div class="col-md-6 col-sm-6">
+      <img src="/assets/img/Belper-polo-logo-400.jpg" />
+      </div>
 </div>
