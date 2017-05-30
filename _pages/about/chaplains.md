@@ -7,12 +7,14 @@ description:
 icon: fa-heart-o
 order: 1
 ---
+ <div class="row">            
+   <div class="col-md-6 col-sm-6">
+      <img src="/assets/img/Belper-polo-logo-400.jpg" />
+      </div>
+   <div class="col-md-6 col-sm-6">
+      <p>Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.</p>
 
-<img src="/assets/img/Belper-polo-logo-400.jpg" style="float:right; margin: 0 0px 20px 20px;" />
-
-Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.
-
-Currently there are chaplains working amongst:
+      <p>Currently there are chaplains working amongst:</p>
 
 - Retail staff in King Street
 - Pottery School
@@ -31,3 +33,6 @@ Chaplains are motivated by the Christian faith from which they come to care for 
 They are not there to preach but to offer care and comfort and a listening ear
 
 If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>.
+
+</div>
+</div>
