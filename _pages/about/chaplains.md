@@ -21,6 +21,7 @@ order: 1
 <li>St John's School</li>
 <li>Community Health</li>
 <li>Holbrook Hall care home</li>
+</ul>
 
 <h2>What is a chaplain?</h2>
 
@@ -35,4 +36,5 @@ order: 1
 <p>If you want to know more, please <a href="http://belpercommunitychurch.org/contact/">get in touch</a>.</p>
 
 </div>
+
 </div>
