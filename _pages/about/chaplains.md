@@ -8,10 +8,10 @@ icon: fa-heart-o
 order: 1
 ---
  <div class="row">            
-   <div class="col-md-6 col-sm-6">
+   <div class="col-md-4 col-sm-6">
       <img src="/assets/img/Belper-polo-logo-400.jpg" />
       </div>
-   <div class="col-md-6 col-sm-6">
+   <div class="col-md-8 col-sm-6">
       <p>Workplace Chaplaincy in Belper is growing. A number of churches across the town are working together to provide people who will support local workplaces.</p>
 
       <p>Currently there are chaplains working amongst:</p>
