@@ -12,4 +12,8 @@ finishtime: 2130
 category: Special
 layout: event
 ---
+## Learn the words
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0m3Lfkzcw4" frameborder="0" allowfullscreen></iframe>
+
 <img src="/assets/img/popup-choir-june-2017.png" alt="Popup choir leaflet" />
