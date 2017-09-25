@@ -7,8 +7,8 @@ allday: false
 description: 
   Fundraising event
 when: 2017-10-21
-starttime: 19:00
-finishtime: 23:00
+starttime: 1900
+finishtime: 2300
 category: Charity event
 layout: event
 ---
