@@ -18,4 +18,6 @@ Their heart is to reach the world with Jesus through the sharing of our values, 
 
 EMCF have welcomed them many times to share with us prophetically and with Father Heart ministry they carry. They are a gift to the body of Christ.
 
-There is a variety of day and conference tickets available, including concessionary and married couple tickets. You can book on to the conference at https://ccderby.churchapp.co.uk/events/uvx3a0oz
+There is a variety of day and conference tickets available, including concessionary and married couple tickets.
+
+<a href="https://ccderby.churchapp.co.uk/events/uvx3a0oz" target="_blank">Book onto the conference</a>
