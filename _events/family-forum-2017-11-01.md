@@ -1,8 +1,9 @@
 ---
 title: "Family Forum"
-venue: TBC
-address: 
-postcode: 
+title: "Sunday gathering"
+venue: Whitemoor Centre
+address: "John O\'Gaunt\'s Way, Belper"
+postcode: DE56 0DB
 allday: false
 description: 
   Looking ahead
