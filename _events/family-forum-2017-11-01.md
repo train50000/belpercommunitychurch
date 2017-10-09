@@ -1,6 +1,5 @@
 ---
 title: "Family Forum"
-title: "Sunday gathering"
 venue: Whitemoor Centre
 address: "John O\'Gaunt\'s Way, Belper"
 postcode: DE56 0DB
