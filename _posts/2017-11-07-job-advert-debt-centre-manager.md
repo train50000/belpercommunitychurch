@@ -27,5 +27,7 @@ Applications should address the job specification and be emailed to the above ad
 Partner church contacts for further details:
 
 Jo Lambourne – Belper Baptist Church (07881 787 823)
+
 Terry Charker – Belper Community Church (07542 283 431)
+
 Roy Stratton – St Peter’s Parish Churches (07816 002 678)
