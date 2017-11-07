@@ -18,7 +18,12 @@ __£8000/annum__
 
 You would work with the partner churches, coordinated through <a href="https://hopeforbelper.com" target="_blank">Hope for Belper</a>.
 
-The job will include visiting CAP clients in their homes, communicating CAP’s debt advice and working with volunteers to provide a full range of CAP support services, whilst positively reflecting the Christian faith.
+The job will include:
+
+- visiting CAP clients in their homes
+- communicating CAP’s debt advice
+- working with volunteers to provide a full range of CAP support services
+- positively reflecting the Christian faith
 
 To request a Centre Manager job description please email: <a href="mailto:telnatlin@aol.com">telnatlin@aol.com</a>
 
