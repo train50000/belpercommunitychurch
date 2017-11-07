@@ -16,7 +16,7 @@ __16 hours per week__
 
 __£8000/annum__
 
-The purpose of the job is to set up and run a new Christians Against Poverty (CAP) Debt Centre in Belper and work with the partner churches, coordinated through Hope for Belper.
+You would work with the partner churches, coordinated through <a href="https://hopeforbelper.com" target="_blank">Hope for Belper</a>.
 
 The job will include visiting CAP clients in their homes, communicating CAP’s debt advice and working with volunteers to provide a full range of CAP support services, whilst positively reflecting the Christian faith.
 
