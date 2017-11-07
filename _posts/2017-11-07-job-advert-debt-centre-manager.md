@@ -9,6 +9,9 @@ img-credit-url:
 img-display: true
 alt: Hope for Belper and CAP logos
 ---
+Hope for Belper are looking for a debt centre manager to take over the running of the existing Christians Against Poverty debt centre in Belper.
+<!--more-->
+
 16 hours per week
 
 £8000/annum
