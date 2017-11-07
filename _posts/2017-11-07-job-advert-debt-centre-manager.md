@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job advert - Debt Centre Manager"
+title:  "Debt Centre Manager"
 date:   2017-11-07
 categories: news
 image: hope_cap_logos.png
