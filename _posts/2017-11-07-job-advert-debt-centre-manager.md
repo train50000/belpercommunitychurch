@@ -20,7 +20,7 @@ The purpose of the job is to set up and run a new Christians Against Poverty (CA
 
 The job will include visiting CAP clients in their homes, communicating CAP’s debt advice and working with volunteers to provide a full range of CAP support services, whilst positively reflecting the Christian faith.
 
-To request a Centre Manager job description please email: <a href="mailto:telnatlin@aol.com">Terry Charker</a>
+To request a Centre Manager job description please email: <a href="mailto:telnatlin@aol.com">telnatlin@aol.com</a>
 
 Applications should address the job specification and be emailed to the above address by the closing date: Monday 7 th December
 
