@@ -9,7 +9,7 @@ description:
 when: 2018-02-16
 starttime: 1700
 finishtime: 1400
-category: Special event
+category: Synergy event
 layout: event
 ---
 <a href="http://www.synergysphere.org/a-leadership-event/" target="_blank">More information on the Synergy Sphere website</a>
