@@ -1,8 +1,8 @@
 ---
-title: "Sunday gathering"
-venue: Whitemoor Centre
-address: "John O\'Gaunt\'s Way, Belper"
-postcode: DE56 0DB
+title: "Synergy Leadership Event"
+venue: Yarnfield Park
+address: "Yarnfield, Stone"
+postcode: ST15 0NL
 allday: false
 description: 
     For anyone with any leadership responsibility - at church, at work or elsewhere<br />Ends on 18th February
