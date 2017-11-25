@@ -5,7 +5,7 @@ address: "Congleton Rd, Siddington, Macclesfield"
 postcode: SK11 9JY
 allday: false
 description: 
-    Join the rest of the Synergy Sphere churches<br />Finished on 3rd June
+    Join the rest of the Synergy Sphere churches<br />Finishes on 3rd June
 when: 2018-05-31
 starttime: 
 finishtime: 
