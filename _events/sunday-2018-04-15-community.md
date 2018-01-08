@@ -9,7 +9,11 @@ description:
 when: 2018-04-15
 starttime: 
 finishtime: 
-category: Community
+category: Mission
 layout: event
 ---
+We keep one Sunday a month clear so we can use the time to build relationships with our friends and neighbours.
 
+Sometimes, particular during the warmer months, this will be a picnic and games in a local park.
+
+More often, this is likely to be things like walks, bike rides, meeting up for coffee, or a meal. Sometimes in larger groups, but also just singly or in family groups.
