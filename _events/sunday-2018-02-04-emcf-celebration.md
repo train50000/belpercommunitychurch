@@ -5,7 +5,7 @@ address: "Derby"
 postcode: ''
 allday: false
 description: 
-    All of us together
+    All of us together in Derby
 when: 2018-02-04
 starttime: 1000
 finishtime: 1200
