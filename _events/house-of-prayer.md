@@ -1,4 +1,3 @@
-House of Prayer at Joel and Alison's from 10:00 - 11:00AM. 
 ---
 title: "House of Prayer"
 venue: Joel and Alison\'s
