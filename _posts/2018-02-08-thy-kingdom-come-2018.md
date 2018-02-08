@@ -6,7 +6,7 @@ categories: news
 image: Thy-Kingdom-Come-logo.jpg
 img-credit: Thy Kingdom Come
 img-credit-url: https://www.thykingdomcome.global/
-img-display: true
+img-display: false
 alt: Thy Kingdom Come logo
 ---
 Watch this year's powerful video introduction to national Thy Kingdom Come prayer initiative.
