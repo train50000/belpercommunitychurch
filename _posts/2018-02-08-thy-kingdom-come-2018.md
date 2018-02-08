@@ -9,6 +9,9 @@ img-credit-url: https://www.thykingdomcome.global/
 img-display: true
 alt: Thy Kingdom Come logo
 ---
+Watch this year's powerful video introduction to national Thy Kingdom Come prayer initiative.
+<!--more-->
+
 > Never underestimate the power and influence that your prayers have on the world.
 > In prayer, God invites us to be His partners in the transformation of the world through transformed lives.
 
