@@ -1,11 +1,11 @@
 ---
 title: "Going Deeper"
-venue: TBC
+venue: Mark and Sarah's house
 address: 
 postcode: 
 allday: false
 description: 
-    Digging into what the Bible says on a particular topic
+    Digging into 'Paul, suffering and the Spirit'
 when: 2018-03-02
 starttime: 2000
 finishtime: 2130
