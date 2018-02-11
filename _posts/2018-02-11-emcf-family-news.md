@@ -4,7 +4,7 @@ title:  "EMCF Family News"
 date:   2018-02-11
 categories: news
 image: mark-mumford.png
-img-credit: EMCD
+img-credit: EMCF
 img-credit-url: https://www.emcf.net/
 img-display: false
 alt: Mark Mumford
