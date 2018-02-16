@@ -1,6 +1,6 @@
 ---
 title: "Going Deeper"
-venue: Mark and Sarah's house
+venue: Claire and Spencer's house
 address: 
 postcode: 
 allday: false
