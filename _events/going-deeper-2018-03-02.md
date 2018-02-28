@@ -12,4 +12,4 @@ finishtime: 2130
 category: Learning
 layout: event
 ---
-Join with Sarah as we investigate together what life looks like today in the "already and not yet" of the Kingdom of God.
+Join with Sarah as we investigate together what the Bible says about Paul, suffering and the Spirit.
