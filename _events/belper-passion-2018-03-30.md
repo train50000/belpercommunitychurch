@@ -7,8 +7,8 @@ allday: false
 description: 
   A free community event
 when: 2018-03-30
-starttime: 11:00
-finishtime: 13:00
+starttime: 1100
+finishtime: 1300
 category: Special
 layout: event
 ---
