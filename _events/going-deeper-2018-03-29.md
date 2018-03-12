@@ -7,8 +7,8 @@ allday: false
 description: 
   What Jesus is hoping for in His bride
 when: 2018-03-29
-starttime: 20:00
-finishtime: 21:30
+starttime: 2000
+finishtime: 2130
 category: Bible study
 layout: event
 ---
