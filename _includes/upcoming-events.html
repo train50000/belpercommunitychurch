@@ -14,6 +14,7 @@
   {% endcapture %}
   {% capture yesterday %}
     {{ unixNow | minus: 86400 }}
+  {% endcapture %}
   {% capture unix2Months %}
     {{ unixNow | plus: 5259486 }}
   {% endcapture %}
