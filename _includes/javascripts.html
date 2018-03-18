@@ -29,9 +29,10 @@
   /* Custom filtering function which will find dates in column 1 for now onwards */
     $.fn.dataTable.ext.search.push(
         function( settings, data, dataIndex ) {
-            var today = new Date();
+            var yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
             var eventDate = ( new Date(data[0]) ); // use data for the date column
-            if ( eventDate >= today ) // Hide old dates     
+            if ( eventDate > yesterday ) // Hide old dates     
               {
                   return true;
               }
