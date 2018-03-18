@@ -12,12 +12,14 @@
   {% capture unixNow %}
     {{ 'now' | date: '%s' }}
   {% endcapture %}
+  {% capture yesterday %}
+    {{ unixNow | minus: 86400 }}
   {% capture unix2Months %}
     {{ unixNow | plus: 5259486 }}
   {% endcapture %}
 
 
-  {% if eventDate >= unixNow and eventDate < unix2Months %}
+  {% if eventDate > yesterday and eventDate < unix2Months %}
 
 
 
