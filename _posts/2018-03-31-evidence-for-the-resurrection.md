@@ -16,16 +16,18 @@ Some useful links for those who want to dig a bit deeper into the historical evi
 >
 > <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=NIVUK" target="_blank" title="Bible Gateway">1 Corinthians 15:14</a>
 
-[](https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/)
+If anyone is aware of any women authors in this field, please let me know, as I would like to rebalance this list!
 
-https://www.desiringgod.org/articles/historical-evidence-for-the-resurrection
+[Ian Paul - The evidence for the resurrection](https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/)
 
-http://bnugent.org/famous-lawyers-prove-the-resurrection-of-christ/
+[Matt Perman - Historical evidence for the resurrection](https://www.desiringgod.org/articles/historical-evidence-for-the-resurrection)
 
-https://www.crosswalk.com/faith/bible-study/10-things-you-should-know-about-the-empty-tomb-of-jesus.html
+[Bill Nugent - Famous lawyers prove the resurrection of christ](http://bnugent.org/famous-lawyers-prove-the-resurrection-of-christ/)
 
-https://www.solas-cpc.org/the-ultimate-evidence-the-resurrection-of-jesus-christ/
+[Sam Storms](https://www.crosswalk.com/faith/bible-study/10-things-you-should-know-about-the-empty-tomb-of-jesus.html)
 
-<a href="https://www.amazon.co.uk/Resurrection-Son-Christian-Origin-Question/dp/0281055505" target="_blank">NT Wright - The Resurrection of the Son of God</a> (Amazon)
+[Wikipedia - Historicity and origin of the resurrection of Jesus](https://en.wikipedia.org/wiki/Historicity_and_origin_of_the_Resurrection_of_Jesus)
+
+[NT Wright - The Resurrection of the Son of God](https://www.amazon.co.uk/Resurrection-Son-Christian-Origin-Question/dp/0281055505) (Amazon)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e2rAGimw2hY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
