@@ -24,7 +24,7 @@ If anyone is aware of any women authors in this field, please let me know, as I 
 
 [Bill Nugent - Famous lawyers prove the resurrection of christ](http://bnugent.org/famous-lawyers-prove-the-resurrection-of-christ/)
 
-[Sam Storms](https://www.crosswalk.com/faith/bible-study/10-things-you-should-know-about-the-empty-tomb-of-jesus.html)
+[Sam Storms - 10 things you should know about the empty tomb of Jesus](https://www.crosswalk.com/faith/bible-study/10-things-you-should-know-about-the-empty-tomb-of-jesus.html)
 
 [Wikipedia - Historicity and origin of the resurrection of Jesus](https://en.wikipedia.org/wiki/Historicity_and_origin_of_the_Resurrection_of_Jesus)
 
