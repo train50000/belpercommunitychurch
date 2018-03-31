@@ -10,17 +10,21 @@ img-display: true
 alt: Three empty crosses
 ---
 Some useful links for those who want to dig a bit deeper into the historical evidence and arguments for the resurrection.
-<-- more -->
+<!--more--!>
 
 > ... if Christ has not been raised, our preaching is useless and so is your faith.
 > <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=NIVUK" target="_blank" title="Bible Gateway">1 Corinthians 15:14</a>
 
 https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/
+
 https://www.desiringgod.org/articles/historical-evidence-for-the-resurrection
+
 http://bnugent.org/famous-lawyers-prove-the-resurrection-of-christ/
+
 https://www.crosswalk.com/faith/bible-study/10-things-you-should-know-about-the-empty-tomb-of-jesus.html
+
 https://www.solas-cpc.org/the-ultimate-evidence-the-resurrection-of-jesus-christ/
 
-<a href="https://www.amazon.co.uk/Resurrection-Son-Christian-Origin-Question/dp/0281055505" target="_blank">NT Wright - The Resurrection of the Son of God</a>
+<a href="https://www.amazon.co.uk/Resurrection-Son-Christian-Origin-Question/dp/0281055505" target="_blank">NT Wright - The Resurrection of the Son of God</a> (Amazon)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e2rAGimw2hY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
