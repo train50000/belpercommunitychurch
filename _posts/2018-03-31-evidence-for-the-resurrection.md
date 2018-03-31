@@ -9,10 +9,11 @@ img-credit-url: https://pixabay.com/en/cross-christ-faith-god-jesus-2713356/
 img-display: true
 alt: Three empty crosses
 ---
+Some useful links for those who want to dig a bit deeper into the historical evidence and arguments for the resurrection.
+<-- more -->
+
 > ... if Christ has not been raised, our preaching is useless and so is your faith.
 > <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=NIVUK" target="_blank" title="Bible Gateway">1 Corinthians 15:14</a>
-
-For those who want to dig a bit deeper into the historical evidence and arguments for the resurrection, here are a few useful links:
 
 https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/
 https://www.desiringgod.org/articles/historical-evidence-for-the-resurrection
