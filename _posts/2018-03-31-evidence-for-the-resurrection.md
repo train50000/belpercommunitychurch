@@ -13,9 +13,10 @@ Some useful links for those who want to dig a bit deeper into the historical evi
 <!--more-->
 
 > ... if Christ has not been raised, our preaching is useless and so is your faith.
+>
 > <a href="https://www.biblegateway.com/passage/?search=1+Corinthians+15&version=NIVUK" target="_blank" title="Bible Gateway">1 Corinthians 15:14</a>
 
-https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/
+[](https://www.psephizo.com/biblical-studies/what-is-the-evidence-for-the-resurrection/)
 
 https://www.desiringgod.org/articles/historical-evidence-for-the-resurrection
 
