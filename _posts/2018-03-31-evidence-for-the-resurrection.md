@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Evidence for the resurrection of Jesus"
+icon: book
 date:   2018-03-31
 categories: news
 image: cross-495x295-PSX_20180331_142941.jpg
