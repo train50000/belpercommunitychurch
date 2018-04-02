@@ -1,8 +1,8 @@
 ---
 title: "EMCF Celebration"
 venue: Riverside Centre
-address: "Derby"
-postcode: ''
+address: "Riverside Ct, Derby"
+postcode: 'DE24 8HY'
 allday: false
 description: 
     All of us together in Derby
