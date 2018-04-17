@@ -5,7 +5,7 @@ address: Riverside Court, Pride Park, Derby
 postcode: 'DE24 8HY'
 allday: false
 description: 
-    All together in Derby
+    Further information about the upcoming changes to EMCF
 when: 2018-05-08
 starttime: 1930
 finishtime: 2130
