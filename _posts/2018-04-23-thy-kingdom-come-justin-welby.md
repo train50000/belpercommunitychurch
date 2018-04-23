@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Justin Welby on Thy Kingdom Come"
-icon: fa-bookmaark
+icon: fa-bookmark
 date:   2018-04-23
 categories: news
 image: Thy-Kingdom-Come-logo.jpg
 img-credit: Thy Kingdom Come
 img-credit-url: 
-img-display: true
+img-display: false
 alt: Thy Kingdom Come logo
 ---
 Justin Welby speaks about his journey to faith, and looks at how we can play our part in "Thy Kingdom Come".
