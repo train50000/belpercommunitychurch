@@ -41,6 +41,6 @@ Please note, however, that if you delete cookies or refuse to accept them, you m
 
 Where can your find more information about cookies
 
-You can learn more about cookies and the following third-party websites:
+You can learn more about cookies and the following third-party website:
 
-[http://www.allaboutcookies.org/|AllAboutCookies] 
+[AllAboutCookies](http://www.allaboutcookies.org/) 
