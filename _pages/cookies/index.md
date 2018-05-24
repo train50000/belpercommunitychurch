@@ -2,6 +2,7 @@
 layout: page
 title: Cookies
 order: 
+icon: fa-circle
 permalink: "/cookies/"
 img: 
 ---
