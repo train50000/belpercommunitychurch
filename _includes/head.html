@@ -27,6 +27,30 @@
 
     <link href="https://cdn.datatables.net/responsive/2.2.0/css/responsive.dataTables.min.css" rel="stylesheet">
 	
+	
+	<!-- Cookie banner -->
+	
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#ff871c"
+    },
+    "button": {
+      "background": "#5d4b33"
+    }
+  },
+  "content": {
+    "href": "http://belpercommunitychurch.org/cookies/"
+  }
+})});
+</script>
+	
+	<!-- End of cookie banner -->
+	
     <!-- Main Style -->
     <link href="{{ site.themeurl }}/style.css" rel="stylesheet">
 
