@@ -32,15 +32,14 @@ We use both session and persistent cookies on the Service and we use different t
 
 In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, and so on.
 
-## What are your choices regarding cookies
-
+## What are your choices regarding cookies?
 
 If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
 
 Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
 
-Where can your find more information about cookies
+# Where can you find more information about cookies?
 
-You can learn more about cookies and the following third-party website:
+You can learn more about cookies on the following third-party website:
 
 [AllAboutCookies](http://www.allaboutcookies.org/) 
