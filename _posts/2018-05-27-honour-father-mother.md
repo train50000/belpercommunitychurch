@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Honour your father & mother"
+title:  "Honour your father and mother"
 icon: fa-bookmark
 date:   2018-05-27
 categories: sermons
