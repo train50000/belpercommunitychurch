@@ -14,11 +14,11 @@ We looked today at how our culture treats older people, and how, as Christians, 
 <!--more-->
 What does it mean in practice to defer to people who are older and wiser?
 
-- <em>F</em>orgive them
-- <em>S</em>peak well of them
-- <em>S</em>eek their wisdom
-- <em>P</em>rovide for them
-- <em>S</em>upport them
+- Forgive them
+- Speak well of them
+- Seek their wisdom
+- Provide for them
+- Support them
 
 Mark's talk today was heavily based on <a href="http://kings.church/teaching/honor-your-father-and-mother/" target="_blank">Andrew Wilson's sermon</a> on the same subject (although adapted for our audience!). Watch the video below.
 
