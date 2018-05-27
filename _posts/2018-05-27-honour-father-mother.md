@@ -11,7 +11,7 @@ img-display: false
 alt: Old man and woman holding hands
 ---
 We looked today at how our culture treats older people, and how, as Christians, we are called to be counter-cultural. 
-
+<!--more-->
 What does it mean in practice to defer to people who are older and wiser?
 
 <em>F</em>orgive them
