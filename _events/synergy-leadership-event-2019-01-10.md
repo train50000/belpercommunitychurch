@@ -6,7 +6,7 @@ postcode: ST15 0NL
 allday: false
 description: 
     For anyone with any leadership responsibility - at church, at work or elsewhere<br />Ends on 13th January
-when: 2018-01-10
+when: 2019-01-10
 starttime: 1700
 finishtime: 1400
 category: Synergy event
