@@ -15,3 +15,5 @@ category:
 layout: event
 ---
 There will be no meeting in Belper today.
+
+We will join with the rest of EMCF for a shared lunch (please bring something to share).
